@@ -1,0 +1,37 @@
+.contenedor{
+    width: 900px;
+    height: 370px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0, 0, 0 /90%) ;
+
+
+}
+.img{
+    height: 60%;
+    width: auto;
+}
+.contenedor{
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    font-family: Loto, Arial;
+    font-weight: 400;
+    line-height: 1.5rem;
+
+}
+.titulo{
+
+}
+.desc{
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+.claselink{
+    margin-right: 1.1rem;
+}
