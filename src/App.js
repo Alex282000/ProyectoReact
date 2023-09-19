@@ -34,6 +34,7 @@ function App() {
           
           {/*comentario para probar GIT*/}
           {/*comentario desde la nube*/}
+          {/*comentario nuevo*/}
       </div>
       {/*<Casilla />*/}
       
